@@ -13,8 +13,23 @@
 * Power BI: Used DAX formulas to analyze and visualize data, as well as for calculations.
 
     ## Analysis Content
-* Overview: Key metrics like total sales, total profit, profit margin percentage, YTD sales average 
-           revenue distribution by currency code, revenue distribution across channel, yearly revenue and profit margin analysis by product
-* Sales & category analysis: Key metrics like Avg order Qty, Max revenue by category, top revenue by category, total unit sold
-           Order Qty by product and channel with revenue abd cost insights, revenue breakdown by product
-* Product details: 
+* Overview: Key metrics like Total Sales, Total Profit, Profit Margin Percentage, YTD Sales Average 
+           Revenue Distribution by Currency Code, Revenue Distribution Across Channel, Yearly Revenue and Profit Margin Analysis by Product
+* Sales & Category Analysis: Key metrics like Avg Order Qty, Max Revenue by Category, Top Revenue by Category, Total Unit Sold
+           Order Qty by Product and Channel with Revenue and Cost Insights, Revenue Breakdown by Product
+* regional & buyer insights: Key metrics likeTop Buyer, Top Performing City, Top Suburb
+                             Top 10 cities by revenue, Revenue vs. profit analysis across channels over time, Top 10 Coustomers by revenue, total revenue Across Geographical Coordinates
+* Pricing & Buyer Cost: Key metrics like Avg Unit Cost, Maximum Unit Price, Total Unit Cost, Cost to Revenue Ratio
+                        Yearly Unit Cost Trends Across Channels,Revenuue vs. Cost Over Time, Unit Price Comparison by Product and Channel
+
+  These analyzes provide useful insights for the businesses to improve their strategies and learn more about customer profiles.
+
+  ## Key insights from the report
+* Product 7 consistently generates the highest revenue across channels.
+* Christchurch contributes the most revenue among all cities.
+* Wholesale dominates in total revenue and order quantity.
+* March records the highest revenue and profit across all months.
+* Revenue and costs are positively correlated.
+
+  ## Conclusion: 
+This dataset offered a comprehensive view of business operations, highlighting key trends in sales, revenue, and performance. It served as a valuable tool for exploring data-driven insights and enhancing storytelling and visualization skills.
