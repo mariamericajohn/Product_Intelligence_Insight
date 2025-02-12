@@ -6,11 +6,20 @@
 
 * The dataset includes details about business performance, sales trends, regional dynamics, and pricing and cost insights.
 
-  ### Tools used: Excel, PowerBI
+## Interactive Features (Navigation & Filters)
+* Page Navigation: Added buttons for easy switching between pages.
+* Filter Clearing: A dedicated button to reset all applied filters instantly.
+* Menu Button:
+  
+     🔹Clicking the menu icon opens filter options.
 
-   ## Technologies Used
-* Excel: For processing and organizing data.
-* Power BI: Used DAX formulas to analyze and visualize data, as well as for calculations.
+     🔹Users can apply selected filters or close the menu by clicking the Apply button.
+* Important: These buttons work only when using Ctrl + Click in Power BI Desktop.
+
+   ## Tech Stack Used
+* Power BI – For data visualization
+* DAX (Data Analysis Expressions) – For calculated measures and KPIs
+* Excel – Data source
 
     ## Analysis Content
 * Overview: Key metrics like Total Sales, Total Profit, Profit Margin Percentage, YTD Sales Average 
